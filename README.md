@@ -5,6 +5,11 @@
 
 This is a simple weather app built using react. It uses the OpenWeatherMap API to fetch weather data for cities around the world. You can search for any city and see its current temperature, and weather upto 6 days.
 
+![alt text](public/ss.png)
+![alt text](public/ss1.png)
+
+
+
 ## Built With
 
 * React
